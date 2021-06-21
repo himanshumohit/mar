@@ -1,10 +1,5 @@
 package practiceProblems;
 
-/**
- * @author Aakansha Doshi
- *
- *
- */
 public class FizzBuzz {
 
 	public static void main(String[] args) {
