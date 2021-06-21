@@ -6,11 +6,6 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.math.BigInteger;
 
-
-/**
- * @author Aakansha Doshi
- *
- */
 public class Nthfibonacci {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
